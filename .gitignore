@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+*.env
+
+# ChromaDB
+chroma_db/
+
+# Uploaded files
+uploads/
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Inter, sans-serif;
+    background:#f1f5f9;
+}
+
+.app{
+    min-height:100vh;
+}
+
+.container{
+    max-width:1200px;
+    margin:auto;
+    padding:30px;
+}
+
+.welcome-card{
+    margin-top:25px;
+    background:white;
+    padding:40px;
+    border-radius:18px;
+    text-align:center;
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+}
+
+.welcome-card h2{
+    margin-bottom:20px;
+    color:#1e293b;
+}
+
+.welcome-card p{
+    color:#64748b;
+    line-height:1.8;
+}
